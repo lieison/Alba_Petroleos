@@ -11,3 +11,6 @@ php_value max_input_vars 4720
 php_value memory_limit 256M
 php_value max_execution_time 300
 php_value memory_limit 128M
+# BEGIN WordPress
+
+# END WordPress
