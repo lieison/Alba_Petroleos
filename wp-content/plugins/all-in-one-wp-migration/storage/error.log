@@ -916,3 +916,9 @@ Message: DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1
 File:    C:\wamp\www\Alba_Petroleos\wp-content\plugins\fusion-core\admin\page-builder\classes\class-fusion-reversal.php
 Line:    1156
 -------------------------------------------- 
+[Sep 10 2015 21:06:06] ERROR_HANDLER 
+Number:  2
+Message: DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1
+File:    C:\wamp\www\Alba_Petroleos\wp-content\plugins\fusion-core\admin\page-builder\classes\class-fusion-reversal.php
+Line:    1156
+-------------------------------------------- 
