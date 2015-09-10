@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /Alba_Petroleos/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /Alba_Petroleos/index.php [L]
+</IfModule>
+
+php_value max_input_vars 4720
+php_value memory_limit 256M
+php_value max_execution_time 300
+php_value memory_limit 128M
